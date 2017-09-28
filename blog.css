@@ -1,0 +1,37 @@
+body {
+	border: 20px #bdc3c7 solid;
+	font-family: source sans pro;
+	max-width: 700px;
+	width: 80%;
+	margin: 20px auto;
+	padding: 20px;
+}
+
+
+.date {
+	color: #3498db;
+	text-transform: uppercase;
+	letter-spacing: 0.2rem;
+}
+
+h2 {
+	color: #2c3e50;
+	font-size: 2.0rem;
+}
+
+blockquote{
+	border-left: 5px #bdc3c7 solid;
+	padding-left: 5px;
+}
+
+div {
+	margin-bottom: 20px;
+}
+
+h1 {
+	font-weight: 700;
+}
+
+hr{
+	border-top: 1px solid #8c8b8b;
+}
